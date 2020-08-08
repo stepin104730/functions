@@ -8,6 +8,7 @@ int main()
     //The total value (returned by the function) is stored in total variable.
     printf("The sum of these numbers :%d",total);
     //display the total value
+    printf("lekkal sai");
     getch();
     return 0;
 }
