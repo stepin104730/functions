@@ -10,7 +10,7 @@ int main()
     //display the total value
     printf("lekkal sai");
     getch();
-    return 0;
+    return 0; //returning true
 }
 int sum(int a, int b)//defining function based in declaration
 {
